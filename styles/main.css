@@ -1,0 +1,73 @@
+* {
+    margin: 20;
+    padding: 20;
+  }
+  
+  
+  .inputForm {
+    display: flex;
+    flex-direction:row-reverse;
+  }
+  
+  #btnContainer {
+    display: flex;
+    justify-content: center;  
+  }
+  
+  #btnContainer button {
+    padding: 1rem 2rem;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+  
+  .ofertas {
+    gap: 20px;
+    display: grid;
+    grid-template-areas: repeat(3, 1fr);
+  }
+  .populares {
+    gap: 20px;
+    display: grid;
+    grid-template-areas: repeat(3, 1fr);
+  }
+  #displayfrutas-y-verduras {
+    display: flex;
+    flex-direction: row;
+    gap: 15rem;
+    justify-content: left;
+    width: 800px;
+  }
+
+  #ofertas {
+    gap: 20px;
+    display: grid;
+    grid-template-areas: repeat(3, 1fr);
+  }
+  #populares {
+    gap: 20px;
+    display: grid;
+    grid-template-areas: repeat(3, 1fr);
+  }
+  .card-body {
+    
+    gap: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+  
+  
+  .a{
+    text-decoration-color: #d64106;
+  }
+ 
+
+  #a{
+    text-decoration-color: #d64106;
+  }
+  image{
+    width: 25px;
+  }
+  

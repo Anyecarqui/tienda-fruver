@@ -1,0 +1,105 @@
+{
+  "frutasyverduras": [
+    {
+      "id": "1",
+      "name": "lechuga",
+      "price": "1250kg",
+      "discount": "13%",
+      "image": "https://www.sakata.com.mx/wp-content/uploads/2023/04/Lech-Portola-1200X1200.jpg",
+      "description": "la planta es robusta y de excelente peso, color verde oscuro atractivo, buena firmeza y uniformidad de cabezas, los tamaños son grandes, corazón interior corto, ideal para supermercado, granel y para embolsado de alta calidad.",
+      "categorie": "verduras"
+    },
+    {
+      "id": "3",
+      "name": "cebolla cabezona",
+      "price": "5000kg",
+      "discount": "32%",
+      "image": "https://www.sakata.com.mx/wp-content/uploads/2023/04/Ceb-BellaLuna-1200X1200.jpg",
+      "description": "cebolla blanca de día corto de madurez precoz, los bulbos son tipo globo, uniformes y pesados.",
+      "categorie": "verduras"
+    },
+    {
+      "id": "5",
+      "name": "pimenton rojo",
+      "price": "1000kg",
+      "discount": "13%",
+      "image": "https://www.sakata.com.mx/wp-content/uploads/2023/04/Pim-Bishop-1200X1200.jpg",
+      "description": "Es un nuevo híbrido de pimiento de maduración intermedia – temprana, Su maduración es de verde oscuro a rojo, sus frutos son de tamaños grandes a extra grandes.",
+      "categorie": "verduras"
+    },
+    {
+      "id": "7",
+      "name": "Tomate chonto",
+      "price": "500kg",
+      "discount": "10%",
+      "image": "https://www.sakata.com.mx/wp-content/uploads/2023/04/Tom-Botero-1200X1200.jpg",
+      "description": " Nueva variedad de tomate bola indeterminado, de madurez precoz, la planta presenta vigor medio y hábito balanceado, de excelente firmeza y cierre apical, presenta alto rendimiento y calidad.",
+      "categorie": "verduras"
+    },
+    {
+      "id": "8",
+      "name": "Sandia",
+      "price": "5000kg",
+      "discount": "32%",
+      "image": "https://www.sakata.com.mx/wp-content/uploads/2023/04/Sand-ElCapitan-1200X1200.jpg",
+      "description": "Cuenta con muchos beneficios al consumidor como pulpa firme y crujiente, interior rojo intenso, cavidad pequeña de semilla y un excelente sabor.",
+      "categorie": "frutas"
+    },
+    {
+      "id": "9",
+      "name": "Banano",
+      "price": "500kg",
+      "discount": "5%",
+      "image": "https://lavaquita.co/cdn/shop/products/76b6170a-f1e1-4a92-8622-cee94a659b91_628x628.png?v=1622197616",
+      "description": "fruta que contiene altos niveles de potasio, sacarosa, fructosa y glucosa, nutrientes que al ser consumidos regularmente le proporcionan a nuestro cuerpo energía casi de inmediato.",
+      "categorie": "frutas"
+    },
+    {
+      "id": "10",
+      "name": "Mango tommy",
+      "price": "1500kg",
+      "image": "https://lavaquita.co/cdn/shop/products/f25560ee-c1bc-45a2-96f6-d4b5959623de_628x628.png?v=1622197511",
+      "description": "Mango tommy contiene  provitamina A, tiene efectos antioxidantes, como la vitamina C que también abunda en este fruto. También posee vitamina E, podemos decir que conteniendo tanto las vitaminas A,C y E tiene uno de los mejores tríos de antioxidantes naturales. ",
+      "categorie": "frutas"
+    },
+    {
+      "id": "13",
+      "name": "Maracuya",
+      "price": "1500kg",
+      "image": "https://lavaquita.co/cdn/shop/products/8ce18409-b626-419d-98b6-3152894d80b4_628x628.png?v=1622197513",
+      "description": "La maracuyá es una fruta tropical o también llamada fruta de la pasión, de un sabor un poco ácido y con aroma. Las variedades en tamaño, color y sabor hacen del maracuyá una fruta indispensable para satisfacer las necesidades del mercado al ser verdaderos apasionados su sabor y aroma exquisito",
+      "categorie": "frutas"
+    },
+    {
+      "id": "14",
+      "name": "Lulo",
+      "price": "850kg",
+      "image": "https://lavaquita.co/cdn/shop/products/24ea2ca7-8a90-4816-a188-ba43bca237d5_628x628.png?v=1622197506",
+      "description": "Es apreciada por su contenido en vitamina C. Procesada con cáscara, posee mayor contenido de minerales (tales como calcio y fósforo) y fibra",
+      "categorie": "frutas"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "80",
+      "name": "Yudith",
+      "email": "y@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "81"
+    },
+    {
+      "id": 36,
+      "name": "andry",
+      "email": "anye@gmail.com",
+      "password": "2345678"
+    },
+    {
+      "id": 35,
+      "name": "gisell",
+      "email": "gisell@gmail.com",
+      "password": "123467"
+    }
+  ]
+}
